@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d692722c-9284-4e5a-9fac-ada822f80ce7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/target/rest-with-spring-boot-and-java-erudio-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/rest-with-spring-boot-and-java-erudio-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-br.com.erudio.StartupTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-br.com.erudio.StartupTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/br.com.erudio.StartupTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/br.com.erudio.StartupTests.txt" afterDir="false" />
-    </list>
+    <list default="true" id="d692722c-9284-4e5a-9fac-ada822f80ce7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +27,7 @@
     "JUnit.All in rest-with-spring-boot-and-java-erudio.executor": "Run",
     "Maven.rest-with-spring-boot-and-java-erudio [clean...].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/rest-with-spring-boot-and-java-erudio/04_FirstStepsInJavawithSpringBoot",
